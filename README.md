@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **HTML,CSS,TAilWind,JS,React**
+- 💬 Ask me about **HTML,CSS,TAilWind,JS,React,PHP**
 
 - 📫 How to reach me **anishkrmahua@gmail.com**
 
