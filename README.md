@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **HTML,CSS,TAilWind,JS,React,PHP**
+- 💬 Ask me about **HTML,CSS,TAilWind,JS,React**
 
 - 📫 How to reach me **anishkrmahua@gmail.com**
 
